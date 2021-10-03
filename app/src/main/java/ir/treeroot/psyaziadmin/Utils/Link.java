@@ -4,19 +4,19 @@ package ir.treeroot.psyaziadmin.Utils;
 public class Link {
 
     public static final String
-                                url = "http://192.168.1.100/data/psyazi/admin/",
+                                url = "http://192.168.1.104/data/psyazi/admin/",
 
-                                url_pv_null = "http://192.168.1.100/data/demoPV/download.png",
+                                url_pv_null = "http://192.168.1.104/data/demoPV/download.png",
 
-                                url_chat = "http://192.168.1.100:8000",
+                                url_chat = "http://192.168.1.104:8000",
 
-                                profile_img = "http://192.168.1.100/data/psyazi/admin/img_upload_to_server.php",
+                                profile_img = "http://192.168.1.104/data/psyazi/admin/img_upload_to_server.php",
 
-                                URL_SEND_Comment = "http://192.168.1.100/data/psyazi/admin/get_comment.php",
+                                URL_SEND_Comment = "http://192.168.1.104/data/psyazi/admin/get_comment.php",
 
-                                URL_GET_Comment = "http://192.168.1.100/data/psyazi/admin/comment.php?id_item=",
+                                URL_GET_Comment = "http://192.168.1.104/data/psyazi/admin/comment.php?id_item=",
 
-                                URL_GET_Search = "http://192.168.1.100/data/psyazi/admin/getDataPost.php?title=";
+                                URL_GET_Search = "http://192.168.1.104/data/psyazi/admin/getDataPost.php?title=";
 
 
     public static final String
@@ -25,8 +25,6 @@ public class Link {
                                 username = "username",
 
                                 Id_post = "",
-
-                                Id_pv = "",
 
                                 DB_NAME = "Post.db",
 

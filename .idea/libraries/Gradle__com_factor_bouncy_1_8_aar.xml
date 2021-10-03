@@ -1,15 +1,15 @@
 <component name="libraryTable">
   <library name="Gradle: com.factor:bouncy:1.8@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/1637d9fed504615c1abdcabcc754c8bb/transformed/jetified-bouncy-1.8/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1637d9fed504615c1abdcabcc754c8bb/transformed/jetified-bouncy-1.8/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1637d9fed504615c1abdcabcc754c8bb/transformed/jetified-bouncy-1.8/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/1637d9fed504615c1abdcabcc754c8bb/transformed/jetified-bouncy-1.8/res" />
+      <root url="jar://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/1637d9fed504615c1abdcabcc754c8bb/transformed/jetified-bouncy-1.8/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/1637d9fed504615c1abdcabcc754c8bb/transformed/jetified-bouncy-1.8/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.factor/bouncy/1.8/37c63aecaea84c1e6455bb60ce968b8acd3d3674/bouncy-1.8-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/modules-2/files-2.1/com.factor/bouncy/1.8/37c63aecaea84c1e6455bb60ce968b8acd3d3674/bouncy-1.8-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.factor/bouncy/1.8/26d2ae6e0e5fe34ce3c6430da2a24c69e854dbd2/bouncy-1.8-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/modules-2/files-2.1/com.factor/bouncy/1.8/26d2ae6e0e5fe34ce3c6430da2a24c69e854dbd2/bouncy-1.8-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

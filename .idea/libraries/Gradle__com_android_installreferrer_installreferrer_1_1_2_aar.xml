@@ -4,8 +4,9 @@
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b301a859e1a375d8dca41a4ddb78ba11/jetified-installreferrer-1.1.2/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/aa8b66c6e700288f91862b6c68209a14/transformed/jetified-installreferrer-1.1.2/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/87f8c4d987b731cfca65fd5c5c972138/transformed/jetified-installreferrer-1.1.2/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/87f8c4d987b731cfca65fd5c5c972138/transformed/jetified-installreferrer-1.1.2/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/87f8c4d987b731cfca65fd5c5c972138/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/87f8c4d987b731cfca65fd5c5c972138/transformed/jetified-installreferrer-1.1.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/87f8c4d987b731cfca65fd5c5c972138/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/87f8c4d987b731cfca65fd5c5c972138/transformed/jetified-installreferrer-1.1.2/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

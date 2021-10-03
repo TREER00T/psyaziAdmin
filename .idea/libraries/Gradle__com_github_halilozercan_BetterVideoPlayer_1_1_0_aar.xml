@@ -1,18 +1,18 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.halilozercan:BetterVideoPlayer:1.1.0@aar">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a3cb5c90bcdf343c9d2a61511a2cf9fb/transformed/jetified-BetterVideoPlayer-1.1.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/a6778d8346f63cfe93b40afde2930fe7/transformed/jetified-BetterVideoPlayer-1.1.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a3cb5c90bcdf343c9d2a61511a2cf9fb/transformed/jetified-BetterVideoPlayer-1.1.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a3cb5c90bcdf343c9d2a61511a2cf9fb/transformed/jetified-BetterVideoPlayer-1.1.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a3cb5c90bcdf343c9d2a61511a2cf9fb/transformed/jetified-BetterVideoPlayer-1.1.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/a6778d8346f63cfe93b40afde2930fe7/transformed/jetified-BetterVideoPlayer-1.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/a6778d8346f63cfe93b40afde2930fe7/transformed/jetified-BetterVideoPlayer-1.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/a6778d8346f63cfe93b40afde2930fe7/transformed/jetified-BetterVideoPlayer-1.1.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.halilozercan/BetterVideoPlayer/1.1.0/e212bab0cbc34201ca73e8a66d653c704cc2fd9/BetterVideoPlayer-1.1.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/modules-2/files-2.1/com.github.halilozercan/BetterVideoPlayer/1.1.0/e212bab0cbc34201ca73e8a66d653c704cc2fd9/BetterVideoPlayer-1.1.0-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.halilozercan/BetterVideoPlayer/1.1.0/8ff743beded8a02815770af2921cda69c6734b4c/BetterVideoPlayer-1.1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/modules-2/files-2.1/com.github.halilozercan/BetterVideoPlayer/1.1.0/8ff743beded8a02815770af2921cda69c6734b4c/BetterVideoPlayer-1.1.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
