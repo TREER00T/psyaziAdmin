@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Gradle: com.yandex.android:mobmetricalib:3.15.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8e76e6b0f8bd76bc6eb8f6e7416edc25/transformed/jetified-mobmetricalib-3.15.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e333aebcc323f213ccbd2785b8fab6c7/transformed/jetified-mobmetricalib-3.15.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8e76e6b0f8bd76bc6eb8f6e7416edc25/transformed/jetified-mobmetricalib-3.15.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8e76e6b0f8bd76bc6eb8f6e7416edc25/transformed/jetified-mobmetricalib-3.15.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8e76e6b0f8bd76bc6eb8f6e7416edc25/transformed/jetified-mobmetricalib-3.15.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8e76e6b0f8bd76bc6eb8f6e7416edc25/transformed/jetified-mobmetricalib-3.15.0/jars/libs/r-classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e333aebcc323f213ccbd2785b8fab6c7/transformed/jetified-mobmetricalib-3.15.0/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e333aebcc323f213ccbd2785b8fab6c7/transformed/jetified-mobmetricalib-3.15.0/jars/libs/r-classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e333aebcc323f213ccbd2785b8fab6c7/transformed/jetified-mobmetricalib-3.15.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e333aebcc323f213ccbd2785b8fab6c7/transformed/jetified-mobmetricalib-3.15.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yandex.android/mobmetricalib/3.15.0/4f75823b3ec4c64c5c7aa63dca3a3a9734faf3b4/mobmetricalib-3.15.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yandex.android/mobmetricalib/3.15.0/676de10d49e843f9bd024c64177402877e06e84f/mobmetricalib-3.15.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

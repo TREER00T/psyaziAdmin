@@ -1,0 +1,41 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">psyaziAdmin</string>
+    <string name="error_conn">خطا در اتصال سرور</string>
+    <string name="conn">با موفقیت ثبت شد</string>
+    <string name="wellcome">خوش آمدید</string>
+    <string name="data_invalid">نام کاربری یا گذرواژه اشتباه است</string>
+    <string name="start">ورود کنید</string>
+    <string name="username">نام کاربری</string>
+    <string name="password">گذرواژه</string>
+    <string name="lets_go">ورود</string>
+    <string name="topic">موضوع</string>
+    <string name="text">متن</string>
+    <string name="add_img">افزودن عکس</string>
+    <string name="record">ثبت</string>
+    <string name="search">دنبال چی میگردی؟</string>
+    <string name="account">حساب</string>
+    <string name="post">مطالب</string>
+    <string name="add_post">افزودن پست</string>
+    <string name="talk">مشاوره</string>
+    <string name="about">درباره ما</string>
+    <string name="aliasName">نام مستعار</string>
+    <string name="Name">نام و نام خانوادگی</string>
+    <string name="EditProfile">ویرایش پروفایل</string>
+    <string name="EditPost">ویرایش</string>
+    <string name="comment">نظرات</string>
+    <string name="message">پیام</string>
+    <string name="delete">حذف</string>
+    <string name="delete_item">آیا می خواهید این پست را حذف کنید؟</string>
+    <string name="no">خیر</string>
+    <string name="yes">بله</string>
+    <string name="search_user">جستجو</string>
+    <string name="choose_format">انتخاب کنید :</string>
+    <string name="enter_username">نام کاربری مورد نظر را وارد نمایید</string>
+    <string name="action_search">جستجو</string>
+    <string name="policy_editName">در این قسمت شما می توانید نام خود را ویرایش کنید
+حداکثر تعداد 30 کاراکتر مجاز است  </string>
+    <string name="about_psyazi">در این قسمت شما می توانید توضیهاتی درباره اهداف
+خود بنویسید
+حداکثر تعداد1000  کاراکتر مجاز است  </string>
+    <string name="URL_GET_JSON_Lottie">https://assets2.lottiefiles.com/packages/lf20_zr8u5xxc.json</string>
+</resources>

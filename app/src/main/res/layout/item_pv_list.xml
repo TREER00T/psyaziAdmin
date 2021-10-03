@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:clickable="true"
+    android:paddingTop="3dp"
+    android:focusable="true"
+    android:id="@+id/relativeLayout_pv"
+    android:background="?android:selectableItemBackground"
+    android:layout_height="wrap_content">
+
+    <FrameLayout
+        android:id="@+id/frameLayout_pv"
+        android:layout_width="55dp"
+        android:layout_height="55dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginBottom="4dp">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/pv_img"
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            android:src="@mipmap/ic_launcher" />
+
+
+        <View
+            android:layout_width="12dp"
+            android:id="@+id/online"
+            android:layout_height="12dp"
+            android:layout_gravity="bottom|end"
+            android:layout_marginBottom="2dp"
+            android:layout_marginRight="2dp"
+            android:visibility="invisible"
+            android:background="@drawable/online" />
+
+    </FrameLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:id="@+id/linearLayout_pv"
+        android:layout_toRightOf="@id/frameLayout_pv"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/name_pv"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="4dp"
+            android:maxHeight="65dp"
+            android:maxLength="25"
+            android:text="Ali Azmoodeh" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:maxHeight="65dp"
+            android:id="@+id/text_pv"
+            android:maxLength="35"
+            android:text="سلام من مشکلی شب ادراری دارم چطوری میتونم حلش کنم" />
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginLeft="77dp"
+        android:layout_marginTop="10dp"
+        android:layout_below="@id/linearLayout_pv"
+        android:background="@color/colorPrimary"/>
+</RelativeLayout>

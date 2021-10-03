@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+
+    <View
+        android:id="@+id/aliasname_admin"
+        android:layout_width="80dp"
+        android:layout_height="10dp"
+        android:layout_gravity="end"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="9dp"
+        android:layout_toStartOf="@+id/profile_image"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/shape_shimmer_post"
+        tools:ignore="SmallSp" />
+
+    <View
+        android:layout_width="120dp"
+        android:layout_height="10dp"
+        android:layout_marginTop="8dp"
+        android:layout_below="@id/aliasname_admin"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="74dp"
+        android:background="@drawable/shape_shimmer_post"
+        android:gravity="right" />
+
+
+    <View
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentEnd="true"
+        android:id="@+id/profile_image"
+        android:layout_marginRight="14dp"
+        android:background="@drawable/shape_shimmer_post" />
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:id="@+id/img_post"
+        android:layout_marginTop="65dp"
+        android:background="#7E7E7E" />
+
+    <View
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="30dp"
+        android:layout_marginLeft="360dp"
+        android:layout_below="@id/img_post"
+        android:background="@drawable/shape_shimmer_post" />
+
+</RelativeLayout>

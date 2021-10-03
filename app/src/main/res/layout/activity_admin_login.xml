@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layoutDirection="ltr"
+    android:screenOrientation="portrait"
+    android:background="@drawable/shape_background_login"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_gravity="right"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="@string/start"
+        android:textColor="@color/black"
+        android:textSize="30sp"
+        android:textStyle="normal"
+        tools:ignore="RtlHardcoded" />
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_gravity="center"
+        android:layout_height="100dp"
+        android:scaleType="centerCrop"
+        android:layout_marginTop="25dp"
+        android:src="@drawable/psyazi"
+        tools:ignore="ContentDescription" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"
+        android:orientation="vertical">
+
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/username">
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:id="@+id/username_login"
+                android:textSize="14sp"
+                android:digits="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%*"
+                android:layout_marginBottom="18dp"
+                android:textStyle="bold"
+                android:textColorHint="@color/black"
+                android:textColor="#000000"
+                android:inputType="text"
+                android:maxLength="30">
+
+            </com.google.android.material.textfield.TextInputEditText>
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:passwordToggleEnabled="true"
+            app:counterEnabled="true"
+            app:errorEnabled="true"
+            app:counterMaxLength="30"
+            android:hint="@string/password">
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:id="@+id/password_login"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                android:textColorHint="@color/black"
+                android:textColor="#000000"
+                android:inputType="textPassword"
+                android:digits="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%*"
+                android:maxLength="30">
+
+            </com.google.android.material.textfield.TextInputEditText>
+        </com.google.android.material.textfield.TextInputLayout>
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:id="@+id/login_btn"
+                android:background="@drawable/shape_login_button"
+                android:text="@string/lets_go"
+                android:textSize="15sp"/>
+        </LinearLayout>
+</LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

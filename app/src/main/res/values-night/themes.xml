@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.PsyaziAdmin" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">#707070</item>
+        <item name="colorPrimaryVariant">#CFCFCF</item>
+        <item name="colorOnPrimary">#DDDDDD</item>
+        <item name="android:windowAnimationStyle">@style/CustomActivityAnimation</item>
+
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="android:navigationBarColor">@color/white</item>
+
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+
+        <item name="android:windowLightNavigationBar" tools:ignore="NewApi">true</item>
+
+        <item name="fontFamily">@font/isans</item>
+        <item name="android:windowLightStatusBar">true</item>
+
+        <item name="android:statusBarColor" tools:targetApi="l">@color/white</item>
+
+    </style>
+    <style name="CustomActivityAnimation" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/slide_in_right</item>
+        <item name="android:activityOpenExitAnimation">@anim/slide_out_left</item>
+        <item name="android:activityCloseEnterAnimation">@anim/slide_in_left</item>
+        <item name="android:activityCloseExitAnimation">@anim/slide_out_right</item>
+    </style>
+</resources>

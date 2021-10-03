@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cnb_unselectedColor="#fff">
+    <item
+        android:id="@+id/account"
+        android:icon="@drawable/account"
+        android:title="@string/account"
+        app:cnb_backgroundColor="@color/blue"
+        app:cnb_iconColor="@color/white"
+        app:cnb_textColor="@color/white" />
+    <item
+        android:id="@+id/post"
+        android:icon="@drawable/post"
+        android:title="@string/post"
+        app:cnb_backgroundColor="@color/Purple"
+        app:cnb_iconColor="@color/white"
+        app:cnb_textColor="@color/white" />
+    <item
+        android:id="@+id/addPost"
+        android:icon="@drawable/add"
+        android:title="@string/add_post"
+        app:cnb_backgroundColor="@color/olive"
+        app:cnb_iconColor="@color/white"
+        app:cnb_textColor="@color/white" />
+    <item
+        android:id="@+id/talk"
+        android:icon="@drawable/talk"
+        android:title="@string/talk"
+        app:cnb_backgroundColor="@color/green_light"
+        app:cnb_iconColor="@color/white"
+        app:cnb_textColor="@color/white" />
+</menu>
