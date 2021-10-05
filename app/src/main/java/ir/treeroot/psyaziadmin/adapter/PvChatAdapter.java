@@ -72,6 +72,8 @@ public class PvChatAdapter extends RecyclerView.Adapter<PvChatAdapter.ViewHolder
         holder.name_pv.setText(data.getAliasname());
         // holder.text_pv.setText(data.ge());
 
+        // this is not code
+        holder.text_pv.setText("Sample Text");
         holder.relativeLayout_pv.setOnClickListener(view -> {
             Intent i = new Intent(c, ChatActivity.class);
             i.putExtra("username", data.getUsername());
