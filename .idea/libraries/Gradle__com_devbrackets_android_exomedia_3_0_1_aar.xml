@@ -2,11 +2,19 @@
   <library name="Gradle: com.devbrackets.android:exomedia:3.0.1@aar">
     <ANNOTATIONS>
       <root url="jar://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/146a479c179c36f6da73c635023aabea/transformed/jetified-exomedia-3.0.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/ac51e2a8e6b013a7bc482c49f85f53f5/transformed/jetified-exomedia-3.0.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/1ed1bcef908b8a5312f84c825c6db632/transformed/jetified-exomedia-3.0.1/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/146a479c179c36f6da73c635023aabea/transformed/jetified-exomedia-3.0.1/res" />
       <root url="jar://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/146a479c179c36f6da73c635023aabea/transformed/jetified-exomedia-3.0.1/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/146a479c179c36f6da73c635023aabea/transformed/jetified-exomedia-3.0.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/ac51e2a8e6b013a7bc482c49f85f53f5/transformed/jetified-exomedia-3.0.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/ac51e2a8e6b013a7bc482c49f85f53f5/transformed/jetified-exomedia-3.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/ac51e2a8e6b013a7bc482c49f85f53f5/transformed/jetified-exomedia-3.0.1/res" />
+      <root url="jar://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/1ed1bcef908b8a5312f84c825c6db632/transformed/jetified-exomedia-3.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/1ed1bcef908b8a5312f84c825c6db632/transformed/jetified-exomedia-3.0.1/res" />
+      <root url="file://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/1ed1bcef908b8a5312f84c825c6db632/transformed/jetified-exomedia-3.0.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/modules-2/files-2.1/com.devbrackets.android/exomedia/3.0.1/58d8b8a0f4668a98c7f434cf7a7ceeed9d56f16/exomedia-3.0.1-javadoc.jar!/" />

@@ -2,11 +2,19 @@
   <library name="Gradle: me.zhanghai.android.materialprogressbar:library:1.1.6@aar">
     <ANNOTATIONS>
       <root url="jar://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/dc68eda554057f561ca3a46a9ea23f55/transformed/jetified-library-1.1.6/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/dc79742bfd9e55bdf824af8180c8af1b/transformed/jetified-library-1.1.6/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/3a5b218e3ef3f68186a06eeb1bf2ba85/transformed/jetified-library-1.1.6/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/dc68eda554057f561ca3a46a9ea23f55/transformed/jetified-library-1.1.6/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/dc68eda554057f561ca3a46a9ea23f55/transformed/jetified-library-1.1.6/res" />
       <root url="jar://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/dc68eda554057f561ca3a46a9ea23f55/transformed/jetified-library-1.1.6/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/dc79742bfd9e55bdf824af8180c8af1b/transformed/jetified-library-1.1.6/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/dc79742bfd9e55bdf824af8180c8af1b/transformed/jetified-library-1.1.6/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/dc79742bfd9e55bdf824af8180c8af1b/transformed/jetified-library-1.1.6/res" />
+      <root url="file://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/3a5b218e3ef3f68186a06eeb1bf2ba85/transformed/jetified-library-1.1.6/res" />
+      <root url="jar://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/3a5b218e3ef3f68186a06eeb1bf2ba85/transformed/jetified-library-1.1.6/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/3a5b218e3ef3f68186a06eeb1bf2ba85/transformed/jetified-library-1.1.6/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/modules-2/files-2.1/me.zhanghai.android.materialprogressbar/library/1.1.6/7c024a02997743079606505bbb53096f0030b588/library-1.1.6-javadoc.jar!/" />

@@ -3,6 +3,8 @@
     <ANNOTATIONS>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8e76e6b0f8bd76bc6eb8f6e7416edc25/transformed/jetified-mobmetricalib-3.15.0/annotations.zip!/" />
       <root url="jar://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/77a7a18ba53e41edd0321f9bebcbb98a/transformed/jetified-mobmetricalib-3.15.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/d6fb2e5b9dbe0fa5bb99ce2660e8a487/transformed/jetified-mobmetricalib-3.15.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/4651a3e6cb3370ccf74c18fd1e1fe0b8/transformed/jetified-mobmetricalib-3.15.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8e76e6b0f8bd76bc6eb8f6e7416edc25/transformed/jetified-mobmetricalib-3.15.0/jars/classes.jar!/" />
@@ -13,6 +15,14 @@
       <root url="jar://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/77a7a18ba53e41edd0321f9bebcbb98a/transformed/jetified-mobmetricalib-3.15.0/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/77a7a18ba53e41edd0321f9bebcbb98a/transformed/jetified-mobmetricalib-3.15.0/res" />
       <root url="file://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/77a7a18ba53e41edd0321f9bebcbb98a/transformed/jetified-mobmetricalib-3.15.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/d6fb2e5b9dbe0fa5bb99ce2660e8a487/transformed/jetified-mobmetricalib-3.15.0/res" />
+      <root url="file://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/d6fb2e5b9dbe0fa5bb99ce2660e8a487/transformed/jetified-mobmetricalib-3.15.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/d6fb2e5b9dbe0fa5bb99ce2660e8a487/transformed/jetified-mobmetricalib-3.15.0/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/d6fb2e5b9dbe0fa5bb99ce2660e8a487/transformed/jetified-mobmetricalib-3.15.0/jars/libs/r-classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/4651a3e6cb3370ccf74c18fd1e1fe0b8/transformed/jetified-mobmetricalib-3.15.0/jars/libs/r-classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/4651a3e6cb3370ccf74c18fd1e1fe0b8/transformed/jetified-mobmetricalib-3.15.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/4651a3e6cb3370ccf74c18fd1e1fe0b8/transformed/jetified-mobmetricalib-3.15.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/4651a3e6cb3370ccf74c18fd1e1fe0b8/transformed/jetified-mobmetricalib-3.15.0/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/modules-2/files-2.1/com.yandex.android/mobmetricalib/3.15.0/4f75823b3ec4c64c5c7aa63dca3a3a9734faf3b4/mobmetricalib-3.15.0-javadoc.jar!/" />

@@ -1,4 +1,4 @@
-package ir.treeroot.psyaziadmin.fragment;
+package ir.treeroot.psyaziadmin.Ui.fragment;
 
 import android.Manifest;
 import android.annotation.SuppressLint;
@@ -32,8 +32,6 @@ import com.theartofdev.edmodo.cropper.CropImage;
 import com.theartofdev.edmodo.cropper.CropImageView;
 
 import org.jetbrains.annotations.NotNull;
-import org.json.JSONException;
-import org.json.JSONObject;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

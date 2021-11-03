@@ -2,11 +2,19 @@
   <library name="Gradle: com.github.halilozercan:BetterVideoPlayer:1.1.0@aar">
     <ANNOTATIONS>
       <root url="jar://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/a6778d8346f63cfe93b40afde2930fe7/transformed/jetified-BetterVideoPlayer-1.1.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/ead287b136b63d412d1a8dd4bb5b0356/transformed/jetified-BetterVideoPlayer-1.1.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/a6d624a07168397d1aa1f00ba95d81ec/transformed/jetified-BetterVideoPlayer-1.1.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/a6778d8346f63cfe93b40afde2930fe7/transformed/jetified-BetterVideoPlayer-1.1.0/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/a6778d8346f63cfe93b40afde2930fe7/transformed/jetified-BetterVideoPlayer-1.1.0/res" />
       <root url="file://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/a6778d8346f63cfe93b40afde2930fe7/transformed/jetified-BetterVideoPlayer-1.1.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/ead287b136b63d412d1a8dd4bb5b0356/transformed/jetified-BetterVideoPlayer-1.1.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/ead287b136b63d412d1a8dd4bb5b0356/transformed/jetified-BetterVideoPlayer-1.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/ead287b136b63d412d1a8dd4bb5b0356/transformed/jetified-BetterVideoPlayer-1.1.0/res" />
+      <root url="jar://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/a6d624a07168397d1aa1f00ba95d81ec/transformed/jetified-BetterVideoPlayer-1.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/a6d624a07168397d1aa1f00ba95d81ec/transformed/jetified-BetterVideoPlayer-1.1.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/transforms-3/a6d624a07168397d1aa1f00ba95d81ec/transformed/jetified-BetterVideoPlayer-1.1.0/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../MusicPlayer/.gradle/caches/modules-2/files-2.1/com.github.halilozercan/BetterVideoPlayer/1.1.0/e212bab0cbc34201ca73e8a66d653c704cc2fd9/BetterVideoPlayer-1.1.0-javadoc.jar!/" />

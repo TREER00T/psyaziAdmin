@@ -1,4 +1,4 @@
-package ir.treeroot.psyaziadmin.fragment;
+package ir.treeroot.psyaziadmin.Ui.fragment;
 
 
 import android.annotation.SuppressLint;
@@ -18,13 +18,11 @@ import androidx.recyclerview.widget.SnapHelper;
 import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
 
 import android.os.Handler;
-import android.util.Log;
 import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.LinearLayout;
-import android.widget.Toast;
 
 import com.airbnb.lottie.LottieAnimationView;
 import com.android.volley.Request;

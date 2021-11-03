@@ -1,4 +1,4 @@
-package ir.treeroot.psyaziadmin.register;
+package ir.treeroot.psyaziadmin.Ui.register;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.AppCompatButton;
@@ -23,7 +23,7 @@ import ir.treeroot.psyaziadmin.Utils.APIClient;
 import ir.treeroot.psyaziadmin.Interface.Api;
 import ir.treeroot.psyaziadmin.model.Admin;
 import ir.treeroot.psyaziadmin.Utils.Link;
-import ir.treeroot.psyaziadmin.MainActivity;
+import ir.treeroot.psyaziadmin.Ui.MainActivity;
 import ir.treeroot.psyaziadmin.R;
 import retrofit2.Call;
 import retrofit2.Callback;

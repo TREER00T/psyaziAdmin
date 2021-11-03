@@ -1,4 +1,4 @@
-package ir.treeroot.psyaziadmin;
+package ir.treeroot.psyaziadmin.Ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
@@ -14,10 +14,11 @@ import java.net.URISyntaxException;
 
 import io.socket.client.IO;
 import io.socket.client.Socket;
-import ir.treeroot.psyaziadmin.fragment.AccountFragment;
-import ir.treeroot.psyaziadmin.fragment.AddPostFragment;
-import ir.treeroot.psyaziadmin.fragment.PostFragment;
-import ir.treeroot.psyaziadmin.fragment.PvChatFragment;
+import ir.treeroot.psyaziadmin.R;
+import ir.treeroot.psyaziadmin.Ui.fragment.AccountFragment;
+import ir.treeroot.psyaziadmin.Ui.fragment.AddPostFragment;
+import ir.treeroot.psyaziadmin.Ui.fragment.PostFragment;
+import ir.treeroot.psyaziadmin.Ui.fragment.PvChatFragment;
 
 import static ir.treeroot.psyaziadmin.Utils.Link.MyPref;
 import static ir.treeroot.psyaziadmin.Utils.Link.url_chat;

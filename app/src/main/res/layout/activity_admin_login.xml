@@ -7,7 +7,7 @@
     android:screenOrientation="portrait"
     android:background="@drawable/shape_background_login"
     android:layout_height="match_parent"
-    tools:context=".MainActivity"
+    tools:context=".Ui.MainActivity"
     android:orientation="vertical">
     <TextView
         android:layout_width="wrap_content"

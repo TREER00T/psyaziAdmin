@@ -1,4 +1,4 @@
-package ir.treeroot.psyaziadmin.fragment;
+package ir.treeroot.psyaziadmin.Ui.fragment;
 
 import static ir.treeroot.psyaziadmin.Utils.Link.MyPref;
 import static ir.treeroot.psyaziadmin.Utils.Link.url_chat;
